@@ -1,12 +1,14 @@
-#  Skill Name
+#  Setup Editors and IDEs
 
-Author: FirstName LastName
+Author: Samuel Sze  
 
-Date: YYYY-MM-DD
+Date: 2021 01 26
 -----
 
 ## Summary
-
+* Installed my IDE (Visual Studio Code)
+* Established a working directory EC444_repo on my local machine.
+* Made changes to report.md in this folder. 
 
 ## Sketches and Photos
 

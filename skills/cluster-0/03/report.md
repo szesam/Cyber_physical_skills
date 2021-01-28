@@ -1,11 +1,13 @@
-#  Skill Name
+#  Get access to blackboard
 
-Author: FirstName LastName
+Author: Samuel Sze
 
-Date: YYYY-MM-DD
+Date: 2021 01 26
 -----
 
 ## Summary
+* Created blackboard post. 
+* Created blackboard team. 
 
 
 ## Sketches and Photos
