@@ -25,6 +25,8 @@ Date: 2021-01-30
         idf.py -p PORT monitor  #monitor project. 
 
 ## Sketches and Photos
+**Click on photo for youtube link**
+
 [![](http://img.youtube.com/vi/gCvh9C8rbUM/0.jpg)](http://www.youtube.com/watch?v=gCvh9C8rbUM "ESP-IDF blink project")
 * ESP32 board at the bottom right of the video. 
 * ESP-CMD on the left side, monitor project is active.
