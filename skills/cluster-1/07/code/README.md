@@ -1,8 +1,8 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Code file: LED_blink.c
+Created by: Samuel Sze
+Date of creation: 02/05/2021
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Description:
+With reference to blink ESP-IDF example project, drive multiple LED to count up and wrap in binary from 0001 to 1111.
