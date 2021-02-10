@@ -32,6 +32,7 @@ void echo_hex_mode()
         }
         else 
         {
+            /*user entered a non-integer */ 
             while ((getchar()) != '\n'); 
             continue;
         }

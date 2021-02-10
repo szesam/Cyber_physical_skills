@@ -63,7 +63,7 @@ void app_main(void)
     /* infinite loop*/
     while(1)
     {
-        for (int i = 0; i <= pow(2,4); i++) /* there are four pins, each pin has 0, 1 state. */
+        for (int i = 0; i <= pow(2,4); i++) /* there are four pins, each pin has 0, 1 state. Change 4 based on no. of LED */
         {
             binary_array = dectobin(i);
             /* 1st LED */

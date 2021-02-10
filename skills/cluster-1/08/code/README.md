@@ -1,8 +1,8 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Code file: Alphanumeric_display.c
+Created by: Samuel Sze
+Date of creation: 02/05/2021
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Description:
+With reference to i2C display ESP-IDF example project posted on EC444-spring2021 github, setup a LED matrix bitmap display. 
