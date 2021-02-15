@@ -1,8 +1,8 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Code file: RTOS.c
+Created by: Samuel Sze
+Date of creation: 02/13/2021
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Description:
+With reference to the interrupt script and skeletal script for running multiple tasks on course website, develop a RTOS program that controls LED counting using a switch button, with LED displaying up/down. 

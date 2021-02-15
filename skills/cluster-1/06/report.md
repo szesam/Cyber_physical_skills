@@ -23,6 +23,6 @@ Sources:
     2. http://whizzer.bu.edu/skills/console-io
     
 ## Supporting Artifacts
-https://drive.google.com/file/d/1CRz6pWOQCxD6dPt_Mi1-kDP-UvESAlTr/view?usp=sharing
+https://drive.google.com/file/d/1CRz6pWOQ6CxD6dPt_Mi1-kDP-UvESAlTr/view?usp=sharing
 
 -----

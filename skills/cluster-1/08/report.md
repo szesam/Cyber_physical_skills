@@ -10,8 +10,9 @@ Date: 2021-02-09
 2. Wired ESP-IDF and LED matrix to 3V and ground.
 3. Wired 1kohm resistors from SLA and SDA. 
 4. Downloaded i2C_display code from ec444 spring 2021 github 
-5. Looked up bitmap cheatsheet to alter the bitmap display.
-6. Build, flash and take photos for demo. 
+5. Looked up bitmap cheatsheet for reference of all available bitmap display.
+6. Add in UART function for user input. 
+6. Build, flash and take photos/video for demo.
 
 ## Sketches and Photos
 ![Alt text](images/ledmatrix.jpg?raw=true "Title")
@@ -25,6 +26,7 @@ Sources:
     4.https://github.com/BU-EC444/code-examples
 
 ## Supporting Artifacts
-
+Video artifact (shows user input mapped onto LED display)
+https://drive.google.com/file/d/1ncnUlLkM0ArqheDRD1eKzJYBPNldg7NG/view?usp=sharing
 
 -----
