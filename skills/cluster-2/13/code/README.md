@@ -1,8 +1,4 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Measure temperature using a thermistor and converting the resistance detected on ESP to kelvin and display on the alphanumeric display.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere

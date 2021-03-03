@@ -1,8 +1,4 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Measure input voltage of 3V pin on ESP board at an ADC (GPIO A2) pin and display on the alphanumeric display.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere

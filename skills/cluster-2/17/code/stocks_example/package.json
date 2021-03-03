@@ -1,0 +1,10 @@
+{
+    "name": "skill17",
+    "version": "0.0.1",
+    "description": "read csv through js - format using canvasjs - upload to html using socketio",
+    "dependencies": {
+        "csv-parser": "^3.0.0",
+        "express": "^4.17.1",
+        "socket.io": "^3.1.2"
+    }
+}
