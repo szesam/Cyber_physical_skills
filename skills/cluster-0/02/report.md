@@ -14,7 +14,8 @@ Date: 2021 01 26
 * Took a screenshot of the process. 
 
 ## Sketches and Photos
-![Alt text](images/screenshot.png?raw=true "Title")
+![Alt text](images/screenshot.png?raw=true "Title" = 200)
+<img src=images/drawing.jpg?raw=true alt="drawing" width="200" />
 ## Modules, Tools, Source Used Including Attribution
 
 
