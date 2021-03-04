@@ -1,4 +1,4 @@
-#  Skill Name
+#  Thermistor
 
 Author: Samuel Sze
 

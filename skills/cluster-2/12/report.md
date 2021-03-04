@@ -1,4 +1,4 @@
-#  Skill Name
+#  Voltage divider
 
 Author: Samuel Sze
 
