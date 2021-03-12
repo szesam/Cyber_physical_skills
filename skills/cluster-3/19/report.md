@@ -1,12 +1,12 @@
-#  Skill Name
+#  Setup Router
 
-Author: FirstName LastName
+Author: Samuel Sze
 
-Date: YYYY-MM-DD
+Date: 2021-03-11
 -----
 
 ## Summary
-
+Instead of setting up pi as router, use the loan router as the main router to communicate with internet cloud. 
 
 ## Sketches and Photos
 
