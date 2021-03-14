@@ -1,8 +1,7 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Code adapted from EC444 Course i2c-accel code example.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+Setup Accelerometer on ESP32 and configure necessary read/write function and roll/pitch conversion
+i2c_accel.c is the main code
+ADXL343.h contains accelerometer configuration parameters.
