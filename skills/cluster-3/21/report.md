@@ -7,12 +7,10 @@ Date: 2021-03-12
 ## Summary
 Connect Camera module onto Pi Zero and use it as webcam on server port. 
 1. Setup Motion module on Pi Zero. 
-2. Start motion service
-3. Go to dedicated IP address to observer webcam.
-4. Use DDNS to access webserver from BU WIFI.
+2. Start motion service (put this command: bcm2835-v4l2 into /etc/modules and reboot)
+3. Go to dedicated IP address to observer webcam (192.168.1.100:8081)
 
 ## Sketches and Photos
-<img src="images/yes.png" width="" height="" />
 
 ## Modules, Tools, Source Used Including Attribution
 Sources:
@@ -24,6 +22,8 @@ Sources:
     3. https://www.raspberrypi.org/documentation/configuration/camera.md
 
 ## Supporting Artifacts
+Link to screenshare video:
 
+        https://drive.google.com/file/d/18s6UE0Rq0XE28bBwl92GS3QiRy4Y74eX/view?usp=sharing
 
 -----
