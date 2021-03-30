@@ -144,12 +144,7 @@ uint8_t readRegister(uint8_t reg) {
   i2c_cmd_link_delete(cmd);
   return data;
 }
-void bin(unsigned n)
-{
-    unsigned i;
-    for (i = 1 << 31; i > 0; i = i / 2)
-        (n & i) ? printf("1") : printf("0");
-}
+
 // read 16 bits (2 bytes) (multiple-byte read)
 int16_t read16(uint8_t reg) {
   int16_t two_byte_data;
