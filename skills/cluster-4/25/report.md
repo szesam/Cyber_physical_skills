@@ -19,6 +19,8 @@ Date: 2021-04-05
 
     c). FOB receive packet and turns on corresponding LED.
 
+    d). Additional button to faciliate changing myColor, which governs which LED will be lit.
+
 
 
 ## Sketches and Photos
@@ -33,3 +35,5 @@ Sources:
 
 ## Supporting Artifacts
 Link to video:
+
+    https://drive.google.com/file/d/1LwlTQP0aBlfAUTdliuEYo9PdQw1dlMPB/view?usp=sharing
