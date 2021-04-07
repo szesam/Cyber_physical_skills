@@ -15,7 +15,12 @@ Date: 2021-04-05
 
     a. Psuedo code attached under code directory. 
 
-
+## State table
+| Event\State  | No mole  | One mole  |
+|---|---|---|
+|  Whack Right |  No mole |  No mole + points |
+|  Whack Wrong |  No mole | No mole  |
+|  Idle timout |  One mole | No mole |
 
 ## Sketches and Photos
 <img src="images/download.png" width="" height="" />
