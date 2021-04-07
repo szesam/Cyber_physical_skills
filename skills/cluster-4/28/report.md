@@ -26,7 +26,9 @@ Sources:
 
     1. http://whizzer.bu.edu/skills/state-models
 
-    2. http://whizzer.bu.edu/briefs/design-patterns/dp-state-machine
+    2. https://www.cs.colostate.edu/~cs551/CourseNotes/Synchronization/BullyExample.html
+
+    3. http://whizzer.bu.edu/skills/leader-election
 
 ## Supporting Artifacts
 Link to video artifact: 

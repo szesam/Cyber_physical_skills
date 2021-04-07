@@ -28,13 +28,48 @@ Analyze security issues.
 
 6. Repeat from step 1.
 
-### Weaknesses of overall system
+### Weaknesses in the overall system
+
+1. UDP communication from Raspberry Pi to the internet has no security mechanisms in place to check if the message is legitimate or sent properly. 
+
+    a. Man in the middle attack could happen where a malicious user pretends to be the internet or the Pi and send out information. 
+
+    b. Denial of service attack to overload the Pi, causing malfunctions.
+
+    c. Retriving sensitive data from the PI by intercepting the UDP packet. 
+
+2. The Local Area Network (LAN) setup is not a secure wifi network. Therefore, it can be breached and other malicious users will have access to the ESP32 on the car, the Raspberry Pi, and relevant connected devices. 
+
+3. Information on relevant IP addresses, ports and information can be viewed in the html sourcecode, leading to potential for malicious use. 
+
+### "Bad Actor' attack on system
+1. Physically attack the sensors and circuitry on the car.
+
+2. SSH tunnel into the PI and steal data stored on the server. 
+
+3. Impersonating as a PI/ESP32 on local area network and transmit malicious UDP packets to the internet.
+
+4. Impersonate as the html webpage and send malicious UDP packets to the PI/ESP32.
+
+5. Overload the html webpage by sending errornous commands (Pose, acceleration, velocity). 
+
+### Mitigation
+1. To prevent DDOS attacks by overloading the ESP32 with commands coming from external sources, I can set up a queue system to hold maximum number of requests before dropping oldest packets. 
+
+2. Secure the UDP connection either by switching to TCP connection where encrpytion and secure transmission are garanteed, or setting up some certificate or public key agreement protocol. 
+
+3. IoT provisioning each device onto an IT infrastructure. This requires each new device or sensor to only be enrolled within the system after authentication and verification. Also, this allows for a monitoring platform to be setup for the entire connected system. 
+
 
 ## Sketches and Photos
 
 
 ## Modules, Tools, Source Used Including Attribution
+Sources:
 
+    1. https://davra.com/how-iot-device-provisioning-works/
+
+    2. http://whizzer.bu.edu/skills/security
 
 ## Supporting Artifacts
 
