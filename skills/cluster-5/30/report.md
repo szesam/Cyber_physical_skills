@@ -11,7 +11,9 @@ Date: 2021-04-05
 
 2. Use the MCPWM example code to check steering servo.
 
-3. 
+3. Use Example code on course website to calibrate ESC 
+
+4. Use For loops to increment ESC speed from neutral to forward, then forward back to neutral. 
 
 
 
@@ -28,4 +30,4 @@ Sources:
 ## Supporting Artifacts
 Link to video:
 
-    https://drive.google.com/file/d/1LwlTQP0aBlfAUTdliuEYo9PdQw1dlMPB/view?usp=sharing
+    https://drive.google.com/file/d/1nXgzTdFdRIzRzkPnoIUnzzlKN2Rtx0wT/view?usp=sharing
