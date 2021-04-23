@@ -20,7 +20,7 @@ Date: 2021-04-23
 
 ## Sketches and Photos
 
-<img src="images/IMG_0138.heic" width="" height="" />
+<img src="images/IMG_0138.jpg" width="" height="" />
 
 ## Modules, Tools, Source Used Including Attribution
 
